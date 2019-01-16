@@ -1,0 +1,25 @@
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.Properties.Resources.resources
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.csproj.GenerateResource.cache
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.csproj.CoreCompileInputs.cache
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\bin\Debug\McProtocolDemo.exe.config
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\bin\Debug\McProtocolDemo.exe
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\bin\Debug\McProtocolDemo.pdb
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.Form1.resources
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.exe
+C:\Users\Corextek\Desktop\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.pdb
+C:\Users\corextek\Desktop\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.csprojResolveAssemblyReference.cache
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\bin\Debug\McProtocolDemo.exe.config
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\bin\Debug\McProtocolDemo.exe
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\bin\Debug\McProtocolDemo.pdb
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.csprojAssemblyReference.cache
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.Form1.resources
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.Properties.Resources.resources
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.csproj.GenerateResource.cache
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.csproj.CoreCompileInputs.cache
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.exe
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.pdb
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\bin\Debug\HslCommunication.dll
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\bin\Debug\HslCommunication.xml
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lien Su\Downloads\McProtocolDemo\McProtocolDemo\McProtocolDemo\obj\Debug\McProtocolDemo.csproj.CopyComplete
